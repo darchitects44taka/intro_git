@@ -2,3 +2,4 @@
 ワークフローを学ぶ
 ファイル変更
 git status
+git diff
