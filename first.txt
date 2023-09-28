@@ -3,4 +3,3 @@
 ファイル変更
 git status
 git diff
-git status2
